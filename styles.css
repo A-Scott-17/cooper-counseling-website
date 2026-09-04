@@ -24,3 +24,7 @@ body{background:linear-gradient(115deg,#fff 0%,#fbfefd 52%,#effbf8 100%)}
 [data-reveal]{opacity:0;transform:translateY(22px);transition:opacity .65s ease,transform .65s cubic-bezier(.2,.7,.2,1)}[data-reveal].is-visible{opacity:1;transform:translateY(0)}
 @keyframes hero-breathe{to{transform:scale(1.09) translateX(-.5%)}}@media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;animation-duration:.01ms!important;transition-duration:.01ms!important}}
 @media(max-width:620px){.hero::before{font-size:4.5rem;right:-1.5rem;bottom:-.12rem}.intro::before{display:none}.split-feature img{box-shadow:12px 12px 0 #d8f0e9}.page-hero::after{width:13rem;height:13rem;right:-5rem;top:-5rem}}
+
+/* The logo is deliberately treated as a primary brand element. */
+.site-header{min-height:132px}.brand{gap:1.1rem;font-size:.94rem;letter-spacing:.055em}.brand img{width:96px;height:92px;filter:drop-shadow(0 8px 10px rgba(45,137,118,.15));transition:transform .3s ease,filter .3s ease}.brand:hover img{transform:rotate(-3deg) scale(1.06);filter:drop-shadow(0 12px 15px rgba(45,137,118,.24))}
+@media(max-width:620px){.site-header{min-height:96px}.brand img{width:74px;height:68px}}
