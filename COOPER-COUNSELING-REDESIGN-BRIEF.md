@@ -1,4 +1,4 @@
-# Cooper Counseling LLC — Website Redesign Brief
+# Cooper Counseling LLC: Website Redesign Brief
 
 Source reviewed: https://www.coopercounselingsc.com/ (Home, About, Contact, and Resources), September 4, 2026.
 
@@ -24,8 +24,8 @@ For the redesign, retain the mint/seafoam feeling but use accessible contrast fo
 ## Reusable assets collected
 
 - [Logo](assets/current-brand/cooper-counseling-logo.avif)
-- [Hero image — old pier](assets/current-brand/old-pier-hero.avif)
-- [Clinician portrait — Patricia Cooper](assets/current-brand/patricia-cooper.avif)
+- [Hero image: old pier](assets/current-brand/old-pier-hero.avif)
+- [Clinician portrait: Patricia Cooper](assets/current-brand/patricia-cooper.avif)
 
 The source images are delivered by Wix in AVIF despite the `.jpg` filenames. Convert or optimize during implementation as appropriate.
 
@@ -78,7 +78,7 @@ The source images are delivered by Wix in AVIF despite the `.jpg` filenames. Con
 | Page | Primary search intent | Suggested focus phrase |
 | --- | --- | --- |
 | Home | Find an OCD/anxiety specialist | OCD & anxiety therapy via telehealth in MT, AK & SC |
-| About | Evaluate clinician credentials | Patricia Cooper, LCPC, LPC — OCD & anxiety therapist |
+| About | Evaluate clinician credentials | Patricia Cooper, LCPC, LPC: OCD & anxiety therapist |
 | Services | Understand treatment options | ERP and CBT for OCD and anxiety |
 | Contact | Request consultation | Schedule a free 15-minute OCD/anxiety consultation |
 | Resources | Find reliable support | OCD and anxiety resources, crisis support, and IOCDF |
