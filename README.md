@@ -6,6 +6,6 @@ Pages: Home, Meet Tricia, Therapy, Professional Consultations, Resources, and Co
 
 ## Important before launch
 
-The contact form has client-side validation and a clear success state, but it needs to be connected to the practice's approved secure form or scheduling service before publishing. Do not route health information through ordinary email or an unreviewed form provider.
+The Contact page embeds Cooper Counseling's production Hushmail Secure Contact Form. Hushmail loads its own form and handles submissions directly; this website does not collect or process inquiry data. Confirm that test submissions reach Tricia's Hushmail account before treating the migration as complete.
 
 All source content, geographic claims, credentials, emergency language, and consultation details should be reviewed by Patricia Cooper before publication.
