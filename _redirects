@@ -1,0 +1,10 @@
+# Only the production Netlify hostname redirects. Deploy-preview hostnames are untouched.
+https://cooper-counseling-client-preview.netlify.app/* https://www.coopercounselingsc.com/:splat 301!
+# Consolidate static-file aliases into the existing clean production routes.
+/index.html / 301!
+/index / 301!
+/about.html /about 301!
+/services.html /services 301!
+/professional-consultations.html /professional-consultations 301!
+/resources.html /resources 301!
+/contact.html /contact 301!

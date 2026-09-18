@@ -1,0 +1,5 @@
+# Non-fingerprinted assets use finite caching, not immutable caching.
+/assets/*
+  Cache-Control: public, max-age=604800
+/favicon.ico
+  Cache-Control: public, max-age=86400
