@@ -2,6 +2,8 @@
 
 Source reviewed: https://www.coopercounselingsc.com/ (Home, About, Contact, and Resources), September 4, 2026.
 
+Historical source-site inventory, not current publication guidance. Later owner instructions clarified that Montana, Alaska, and South Carolina are personal/professional history, not automatically current service areas. The geographic keywords and service-area suggestions below are superseded and must not be used without current clinician confirmation. See SEO-LAUNCH-REPORT.md for the production SEO decisions.
+
 ## Brand foundation
 
 - **Business:** Cooper Counseling LLC
